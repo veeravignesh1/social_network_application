@@ -1,2 +1,3 @@
 # social_network_application
-Social Network Application with FastAPI , Postgres
+Code follow along for FreecodeCamp Youtube [Python API Development - Comprehensive Course for Beginners](https://youtu.be/0sOvCWFmrtA)
+
